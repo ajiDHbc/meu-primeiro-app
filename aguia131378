@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu primeiro app</title>
+
+    <style>
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 40px;
+        }
+
+        p {
+            color: #555;
+            font-size: 20px;
+        }
+
+        .caixa {
+            background: white;
+            padding: 30px;
+            margin: auto;
+            width: 300px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="caixa">
+        <h1>Meu primeiro app</h1>
+        <p>Projeto simples funcionando 🚀</p>
+    </div>
+
+</body>
+</html>
